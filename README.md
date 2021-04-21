@@ -5,7 +5,7 @@ Team Member:
 
 ## Implement the Model mention in the Paper
 
-[!Open In Colab](https://colab.research.google.com/drive/1SlJrNNAs-oDCIDEVtjeHdMokT1D5Blq6?usp=sharing)
+[[!Open In Colab]](https://colab.research.google.com/drive/1SlJrNNAs-oDCIDEVtjeHdMokT1D5Blq6?usp=sharing)
 
 [*Neuroevolution of Self-Interpretable Agents*](https://arxiv.org/pdf/2003.08165) by Yujin Tang, Duong Nguyen, David Ha. (Here is the original experiment: [CarRacingExperiment](https://github.com/google/brain-tokyo-workshop/tree/master/AttentionAgent))
 
