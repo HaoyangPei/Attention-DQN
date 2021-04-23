@@ -13,15 +13,15 @@ The author uses input transformation, patch selection, and action generation to 
 
 ## CarRacing-v0 Game with DQN
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YV3dtvlM3UEZ9zB9k6d8UgAIRD65GNy6?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1GHbAzva6ew9E6LWq1_M880PSGOSTvuVV?usp=sharing)
 
 ## CarRacing-v0 Game with Attention DQN
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BqIy4rBY0dfW6kSvzPSrDzPMHBN8R8_D?usp=sharing)
 
 ## Skiing-v0 Game with DQN
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H9aBOwip4Y8XVwYBdfmwDmSRKbS-0B32?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1H9aBOwip4Y8XVwYBdfmwDmSRKbS-0B32?usp=sharing)
 
 ## Skiing-v0 Game with Attention DQN
 
