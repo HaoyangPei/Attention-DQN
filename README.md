@@ -13,7 +13,7 @@ The author uses input transformation, patch selection, and action generation to 
 
 ## CarRacing-v0 Game with DQN
 
-[![Open In Colab](https://colab.research.google.com/drive/1GHbAzva6ew9E6LWq1_M880PSGOSTvuVV?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1s64MhDkfg9lrlvl45ohXyKz-Qlk7GCPV?usp=sharing)
 
 ## CarRacing-v0 Game with Attention DQN
 
