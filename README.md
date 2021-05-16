@@ -20,8 +20,7 @@ The author uses input transformation, patch selection, and action generation to 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BqIy4rBY0dfW6kSvzPSrDzPMHBN8R8_D?usp=sharing)
 
 ## Skiing-v0 Game with DQN
-
-[![Open In Colab](https://colab.research.google.com/drive/1H9aBOwip4Y8XVwYBdfmwDmSRKbS-0B32?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H9aBOwip4Y8XVwYBdfmwDmSRKbS-0B32?usp=sharing)
 
 ## Skiing-v0 Game with Attention DQN
 
