@@ -2,7 +2,10 @@
 Team Member: 
 - Haoyang Pei
 - Jiajin Liu
+## Reference Paper
+Paper: [*Neuroevolution of Self-Interpretable Agents*](https://arxiv.org/pdf/2003.08165) by Yujin Tang, Duong Nguyen, David Ha. (Here is the original experiment: [CarRacingExperiment](https://github.com/google/brain-tokyo-workshop/tree/master/AttentionAgent))
 
+The author uses input transformation, patch selection, and action generation to train a selective-attention-based RL model and does experiments on CarRacing and DoomTakeCover, which have good performance even using a small LSTM controller.
 ## Model Summary
 |            |                  Selective Attention(Paper)                  |                             DQN                              |                    Attention DQN Method 1                    |                    Attention DQN Method 2                    |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
