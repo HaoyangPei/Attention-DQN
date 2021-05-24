@@ -13,6 +13,8 @@ The author uses input transformation, patch selection, and action generation to 
 |  Breakout  |                              -                               | [DQN for Breakout_Pytorch.ipynb](https://github.com/HaoyangPei/Attention-DQN/blob/master/DQN%20for%20Breakout_Pytorch.ipynb) | [Attention_DQN for Breakout_Pytorch_method1.ipynb](https://github.com/HaoyangPei/Attention-DQN/blob/master/Attention_DQN%20for%20Breakout_Pytorch_method1.ipynb) | [Attention_DQN for Breakout_Pytorch_method2.ipynb](https://github.com/HaoyangPei/Attention-DQN/blob/master/Attention_DQN%20for%20Breakout_Pytorch_method2.ipynb) |
 | Beam Rider |                              -                               | [DQN for Beam Rider_Pytorch.ipynb](https://github.com/HaoyangPei/Attention-DQN/blob/master/DQN%20for%20Beam%20Rider_Pytorch.ipynb) | [Attention_DQN for BeamRider_Pytorch_method1.ipynb](https://github.com/HaoyangPei/Attention-DQN/blob/master/Attention_DQN%20for%20BeamRider_Pytorch_method1.ipynb) | [Attention_DQN for BeamRider_Pytorch_method2.ipynb](https://github.com/HaoyangPei/Attention-DQN/blob/master/Attention_DQN%20for%20BeamRider_Pytorch_method2.ipynb) |
 |    Pong    |                              -                               | [DQN for Pong_Pytorch.ipynb](https://github.com/HaoyangPei/Attention-DQN/blob/master/DQN%20for%20Pong_Pytorch.ipynb) | [Attention_DQN for Pong_Pytorch_method1.ipynb](https://github.com/HaoyangPei/Attention-DQN/blob/master/Attention_DQN%20for%20Pong_Pytorch_method1.ipynb) | [Attention_DQN for Pong_Pytorch_method2.ipynb](https://github.com/HaoyangPei/Attention-DQN/blob/master/Attention_DQN%20for%20Pong_Pytorch_method2.ipynb) |
+## Final Report
+
 
 
 
